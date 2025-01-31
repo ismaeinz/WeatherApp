@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.navigation:navigation-common:2.8.5] /home/kssm/.gradle/caches/8.9/transforms/791fb3fdfffbfbce5de37df10cb65038/transformed/navigation-common-2.8.5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.8.5] /home/kssm/.gradle/caches/8.9/transforms/f9d3ea78495568434dfb25ebb3905903/transformed/navigation-runtime-2.8.5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] /home/kssm/.gradle/caches/8.9/transforms/371958f2b85bd2e41f22636b5ad829b2/transformed/navigation-common-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
@@ -60,22 +60,22 @@ MERGED from [androidx.tracing:tracing:1.2.0] /home/kssm/.gradle/caches/8.9/trans
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kssm/.gradle/caches/8.9/transforms/404c1245b13d3776b1e08be42b1ab4f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/kssm/.gradle/caches/8.9/transforms/2c605dd0dd10d85a4a208ed89360fba8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:6:5-27:19
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:6:5-27:19
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:6:5-27:19
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:6:5-27:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /home/kssm/.gradle/caches/8.9/transforms/9955d885d323228b72ee8c921af5a1f4/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /home/kssm/.gradle/caches/8.9/transforms/9955d885d323228b72ee8c921af5a1f4/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] /home/kssm/.gradle/caches/8.9/transforms/c3638e68121c78031db6f82210d848f9/transformed/ui-test-manifest-1.7.2/AndroidManifest.xml:22:5-26:19
@@ -93,51 +93,51 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kssm/.gradle/caches/8
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kssm/.gradle/caches/8.9/transforms/404c1245b13d3776b1e08be42b1ab4f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kssm/.gradle/caches/8.9/transforms/404c1245b13d3776b1e08be42b1ab4f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.15.0] /home/kssm/.gradle/caches/8.9/transforms/dec158b06d870a971d486a9a4eea480a/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:11:9-41
 	android:fullBackupContent
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:9:9-54
 	android:roundIcon
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:12:9-54
 	tools:targetApi
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:15:9-29
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:15:9-29
 	android:icon
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:14:9-48
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:14:9-48
 	android:dataExtractionRules
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:8:9-65
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:8:9-65
 activity#com.example.weatherapp.MainActivity
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:16:9-26:20
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:16:9-26:20
 	android:label
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:19:13-45
 	android:exported
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:18:13-36
 	android:theme
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:20:13-52
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:20:13-52
 	android:name
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:17:13-41
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
-INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-common:2.8.5] /home/kssm/.gradle/caches/8.9/transforms/791fb3fdfffbfbce5de37df10cb65038/transformed/navigation-common-2.8.5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.8.5] /home/kssm/.gradle/caches/8.9/transforms/791fb3fdfffbfbce5de37df10cb65038/transformed/navigation-common-2.8.5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.8.5] /home/kssm/.gradle/caches/8.9/transforms/f9d3ea78495568434dfb25ebb3905903/transformed/navigation-runtime-2.8.5/AndroidManifest.xml:20:5-44
@@ -249,9 +249,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kssm/
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/kssm/.gradle/caches/8.9/transforms/2c605dd0dd10d85a4a208ed89360fba8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/kssm/.gradle/caches/8.9/transforms/2c605dd0dd10d85a4a208ed89360fba8/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /home/kssm/.gradle/caches/8.9/transforms/9955d885d323228b72ee8c921af5a1f4/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
 	android:exported

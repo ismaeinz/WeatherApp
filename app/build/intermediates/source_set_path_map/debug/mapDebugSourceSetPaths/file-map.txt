@@ -50,10 +50,10 @@ com.example.weatherapp-ui-unit-release-48 /home/kssm/.gradle/caches/8.9/transfor
 com.example.weatherapp-material-ripple-release-49 /home/kssm/.gradle/caches/8.9/transforms/ed98596094c6d177d4af4471294591dd/transformed/material-ripple-release/res
 com.example.weatherapp-navigation-runtime-2.8.5-50 /home/kssm/.gradle/caches/8.9/transforms/f9d3ea78495568434dfb25ebb3905903/transformed/navigation-runtime-2.8.5/res
 com.example.weatherapp-lifecycle-runtime-release-51 /home/kssm/.gradle/caches/8.9/transforms/ffe86b71f3ab79654c975cf956ba142b/transformed/lifecycle-runtime-release/res
-com.example.weatherapp-pngs-52 /home/kssm/AndroidStudioProjects/WeatherApp/app/build/generated/res/pngs/debug
-com.example.weatherapp-resValues-53 /home/kssm/AndroidStudioProjects/WeatherApp/app/build/generated/res/resValues/debug
-com.example.weatherapp-packageDebugResources-54 /home/kssm/AndroidStudioProjects/WeatherApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.weatherapp-packageDebugResources-55 /home/kssm/AndroidStudioProjects/WeatherApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.weatherapp-debug-56 /home/kssm/AndroidStudioProjects/WeatherApp/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.weatherapp-debug-57 /home/kssm/AndroidStudioProjects/WeatherApp/app/src/debug/res
-com.example.weatherapp-main-58 /home/kssm/AndroidStudioProjects/WeatherApp/app/src/main/res
+com.example.weatherapp-pngs-52 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/build/generated/res/pngs/debug
+com.example.weatherapp-resValues-53 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/build/generated/res/resValues/debug
+com.example.weatherapp-packageDebugResources-54 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.weatherapp-packageDebugResources-55 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.weatherapp-debug-56 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.weatherapp-debug-57 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/debug/res
+com.example.weatherapp-main-58 /home/kssm/AndroidStudioProjects/FinishProjects/WeatherApp/app/src/main/res
